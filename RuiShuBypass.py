@@ -100,10 +100,10 @@ def view_in_browser(url, headers={}, data="", method="GET"):
 
 if __name__ == '__main__':
     listenPort = 8050  # 设置本地监听地址  端口转发 转发所有数据到目标IP
-    basicUrl = "https://cas.sbj.cnipa.gov.cn"  # basic路径 目标站点根路径
+    basicUrl = "https://xx.xx.xx"  # basic路径 目标站点根路径
     basicUrl = basicUrl.strip("/")
 
-    initUrl = basicUrl + "/cas/login?service=https://wcjs.sbj.cnipa.gov.cn/cas/login"  # 触发 瑞数js的任意路径
+    initUrl = basicUrl + "/cas/login?service=https://xx.xx/cas/login"  # 触发 瑞数js的任意路径
     open_basic_url(initUrl)
 
 
