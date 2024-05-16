@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 设置目标地址，运行，默认监听本地 8050端口
 
-![image-20240516175944611](F:\project\瑞数绕过\assets\image-20240516175944611.png)
+![image-20240516175944611](assets\image-20240516175944611.png)
 
 ```
 python RuiShuBypass.py
@@ -60,22 +60,22 @@ python RuiShuBypass.py
 
 有瑞数设备返回 412
 
-![image-20240516174023638](F:\project\瑞数绕过\assets\image-20240516174023638.png)
+![image-20240516174023638](assets\image-20240516174023638.png)
 
 
 
 修改target，修改为本地 8050端口
 
-![image-20240516174958058](F:\project\瑞数绕过\assets\image-20240516174958058.png)
+![image-20240516174958058](assets\image-20240516174958058.png)
 
 
 
 完美绕过
 
-![image-20240516175302127](F:\project\瑞数绕过\assets\image-20240516175302127.png)
+![image-20240516175302127](assets\image-20240516175302127.png)
 
 
 
-![image-20240516175655774](F:\project\瑞数绕过\assets\image-20240516175655774.png)
+![image-20240516175655774](assets\image-20240516175655774.png)
 
-![image-20240516175833918](F:\project\瑞数绕过\assets\image-20240516175833918.png)
+![image-20240516175833918](assets\image-20240516175833918.png)
